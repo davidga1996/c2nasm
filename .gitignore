@@ -1,0 +1,4 @@
+*.pypirc
+dist/
+build/
+c2nasm.egg-info/
